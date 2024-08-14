@@ -35,6 +35,19 @@ Cabe destacar que una vulnerabilidad y una amenaza no es lo mismo, pueden que es
 - ### _Medios de Almacenaje:_
     Hace referencia a aquellas que pueden darse en los soportes físicos o magnéticos que se usan para almanacenar información (disco duro, USB...).
 
+## Clasificación de vulnerabilidades
+- ### **Bajas:** 
+    Afecta poco a los sistemas informaticos, es decir, su impacto es minimo en los mismos Es fácil hacerle frente y reducirla por que apenas supone riesgos reales para la organización.
+
+- ### **Moderna:**
+    Son fáciles de solucionar, pero tienen un mayor impacto que las vulnerabilidades anteriores. Sus consecuencias se reducen de manera sencilla con herramientas o configuraciones previas.
+
+- ### **Grave:**
+    Se trata de una vulnerabilidad mucho mas peligrosa debido a que pone en riesgo la confidencialidad, integridad y disponibilidad de los sistemas de información. Afecta tanto a los datos como a los recursos.
+
+- ### **Critica:**
+    Es la peor clasificacion, ya que se propaga sin que sea necesaria la participación de los usuarios.
+
 # Amenazas informaticas
 
 Son todas aquellas acciones que utilizan o se aprovechan de la existencia de una vulnerabilidad para violar la seguridad de un sistema.
