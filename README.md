@@ -1,5 +1,5 @@
 <!-- 13/08/2024 - seguridad -->
-# Vulnerabilidades Informaticas
+# 🐱‍💻 Vulnerabilidades Informaticas
 
 Una vulnerabilidad informatica es una debilidad o **error** en el código de un sistema o dispositivo que cuando se explota puede comprometer o poner en riesgo la seguridad de la informacion personal o de una organización.
 
@@ -12,7 +12,7 @@ Cabe destacar que una vulnerabilidad y una amenaza no es lo mismo, pueden que es
 > [!NOTE]
 > Error, defecto y fallo son terminos que pueden sonar similares pero son totalmente diferentes, pueden verse relacionadas como sucede con las vulnerabilidades y amenzas, pero son totalmente distintas.
 
-## Tipos de vulnerabilidades
+## 🚧 Tipos de vulnerabilidades
 
 - ### _Humanas_
     Las personas pueden causar daños en el ambiente tecnologico como en los sistemas de informacion, ya sea de forma intencional o no. El motivo principal puede ser la poca capacitacion o de conciencia de seguridad para llevar a cabo sus actividades rutinarias.
@@ -35,7 +35,7 @@ Cabe destacar que una vulnerabilidad y una amenaza no es lo mismo, pueden que es
 - ### _Medios de Almacenaje:_
     Hace referencia a aquellas que pueden darse en los soportes físicos o magnéticos que se usan para almanacenar información (disco duro, USB...).
 
-## Clasificación de vulnerabilidades
+## 📝 Clasificación de vulnerabilidades
 - ### **Bajas:** 
     Afecta poco a los sistemas informaticos, es decir, su impacto es minimo en los mismos Es fácil hacerle frente y reducirla por que apenas supone riesgos reales para la organización.
 
@@ -48,7 +48,7 @@ Cabe destacar que una vulnerabilidad y una amenaza no es lo mismo, pueden que es
 - ### **Critica:**
     Es la peor clasificacion, ya que se propaga sin que sea necesaria la participación de los usuarios.
 
-# Amenazas informaticas
+# ⚠ Amenazas informaticas
 
 Son todas aquellas acciones que utilizan o se aprovechan de la existencia de una vulnerabilidad para violar la seguridad de un sistema.
 
