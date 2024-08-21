@@ -53,3 +53,78 @@ Cabe destacar que una vulnerabilidad y una amenaza no es lo mismo, pueden que es
 Son todas aquellas acciones que utilizan o se aprovechan de la existencia de una vulnerabilidad para violar la seguridad de un sistema.
 
 Es importante destacar que una amenza puede convertirse en una vulnerabilidad en caso de que no se tomen medidas correctas de seguridad.
+
+<!-- 20/08/2024 - seguridad -->
+
+> [!DANGER]
+> 3 DE SEPTIEMBRE: Lectura de documentos, de los cuales se va a realizar una sintesis de la información que contienen
+
+# 🦺 Sistema de Gestión de Seguridad de la Información(SGSI)
+
+Es basicamente, un conjunto de politicas de administración de la información. Para entender más a profundida en que consiste debemos partir de la definición dada por el estandar internacional ISO/IEC 27000:
+
+> _"Un SGSI consiste en el conjunto de políticas, procedimientos y directrices junto a los recursos y actividades asociados que son administrados colectivamente por una organización, en la búsqueda de proteger sus activos de información esenciales"_
+
+Se debe de tener en cuenta una visión dada por el estandar ISO/IEC 27001:
+
+> _"Es un enfoque sistemático para establecer, implementar, operar, monitorear, revisar, mantener y mejorar la seguridad de la información de una organización y lograr sus objetivos comerciales y/o de servicio"_
+
+## 💵 Activo de informacion
+
+Segun la norma ISO/IEC 27001 es _"Algo que una organización valora y por lo tanto debe proteger"_. La proteccion de estos activos está destinada a preservar **la confidencialidad, la integridad y la disponibilidad de la información**.
+
+ - **Confidencialidad:** La informacion no se debe poner a disposición ni se revela a individuos, entidades o procesos no autorizados. Es necesario acceder a la información mediante autorización y control. En simples palabras la información debe de ser acceso único.
+
+ - **Integridad:** La información y sus métodos de procesos debe mantenerse con exactitud y completitud. Su objetivo es prevenir modificaciones no autorizadas. En simples palabras busca prevenir modificaciones indebidas. Si no se garantiza la confidencialidad puede afectar la integridad de la información.
+
+ - **Disponibilidad:** Garantizar el acceso y la utilización de la información y los sistemas de tratamiento de la misma, por parte de los individuos, entidades o procesos autorizados cuando lo requieran. Su objetivo es prevenir interrupciones no autorizadas de los recursos informáticos. En simples palabras es que las personas que requieran acceso a la información con los permisos necesarios, puedan tenerlo.
+
+Para lograr esta protección de activos se debe establecer, implantar, mantener y mejorar un SGSI. Se basa en el **ciclo de Deming**.
+
+### ♾️ Pasos del ciclo de Deming
+
+- El primer paso es la **planificación**, en donde se miran los riesgos de seguridad de la información y se seleccionan los controles adecuados. Dentro de los riesgos se analizan el tipo, la iterancia y la gravedad.
+
+- El segundo paso es el **hacer**, en donde se envuelve la implantación y operación de los controles definidos en la planificación.
+
+- El tercero es **verificar**, que tiene como objetivo revisar y evaluar el desempeño(eficiencia y eficacia) del SGSI.
+
+- El cuarto y ultimo es el **actuar**, en donde se realizan cambios periódicamente para mantener el SGSI al máximo rendimiento.
+
+El alcance del SGSI aclara suales son sus limites en función del contexto. En caso de que haya un estandar de manera estatal o distrital, estos se sobreponen ante el estandar internacional como lo es el ISO. Se debe de tener en cuenta los problemas internos y externos y los requisitos y espectativas procedentes de las partes interesadas, que se relacionan con las actividades esenciales, es decir, aquellas que permiten cumplir con la misión y los objetivos generales de la organización.
+
+### Inventario de Activos de Información
+
+Cuando uno define estos activos, deben de estar claramente identificados y debe de elaborarse y mantener un inventario de todos los activos de información importante de la organización.
+
+Se recomienda realizar una clasificación, donde la recomendada puede ser la siguiente:
+
+- ### Activos de informacion pura
+
+    - Datos digitales
+        - Bases de datos
+        - Unidades Lógicas(Entornos Físicos)
+        - Copias de Seguridad
+    
+    - Activos tangibles
+        - Personales
+        - Financieros
+        - Legales
+        
+    - Activos Intangibles
+        - Conocimiento
+        - Relaciones
+        - Secretos comerciales
+
+    - Software de aplicación
+        - Propietario desarrollo por la organización
+        - Herramientas de bases de datos
+        - Aplicaciones de comercio electrónico
+        - Middleware
+
+    - Sistemas Operativos
+        - Servidores
+        - Dispositivos de red
+        - Dispositivos de mano e incrustados
+
+- ###
