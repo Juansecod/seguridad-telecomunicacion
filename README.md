@@ -127,4 +127,31 @@ Se recomienda realizar una clasificación, donde la recomendada puede ser la sig
         - Dispositivos de red
         - Dispositivos de mano e incrustados
 
-- ###
+<!-- 27/08/2024 - Seguridad Informatica -->
+
+<!-- Para el 10 de agosto debe tener un resumen en cualquier formato para los 3 documentos en el campus: ISO 27001, ISO 31000 y ICONTEC, Enfocado en la gestion de riesgos -->
+
+# Evaluación de Riesgos
+
+Cada organización debe evaluar los riesgos tiendo en cuenta las guías ISO/IEC 27005 e ISO 31000.
+
+Este proceso debe de ser estructura y repetible, un procedimiento documentado de evaluación de riesgos que explique cómo se identifican, analizan, evaluan y priorizan los riesgos seleccionados con los activos de información más relevantes del alcance. Esto se realiza con el fin de realizar planes de acción o mejoramiento.
+
+## Delaración de aplicabilidad
+
+Una vez evaluados los riesgos, se debe hacer una verificación para determinar cuáles de los controles recomendados en el Anexo A de ISO/IEC 27001 están siendo aplicados o deben aplicarse en la organización. Para esto se puede hacer una referencia cruzada directa con la guía de implementación ISO/IEC 27002 y con cualquier otra fuente alternativa o suplementaria.
+
+El objetivo de este documento es evidenciar que los controles recomendados se aplican cuando están dentro del alcance y son apropiados para su organización o, por el contrario, dejar claro cuando no se justifica el esfuerzo.
+
+# Tratamiento de riesgos
+
+Una vez analizados, se define la política de tratamiento de los riesgos en función de la probabilidad de que las amenazas o las vulnerabilidades propias del activo puedan causar un daño total o parcial al activo de la información. Esta definición debe aliniarse con la disponibilidad, confidencialidad e integridad de este y con la política definida por la dirección. En este punto, se seleccionan las acciones adecuadas para cada riesgo, las cuales iran orientados a:
+
+* **Asumir el riesgo:** Se trata de no hacer nada. Simplemente se sabe que no se tiene el como evitarlo y se convive con él.
+
+* **Reducir el riesgo:** Se usa cuando se tiene la capacidad de eliminar el riesgo pero puede ser muy costosos o muy tardados que simplemente asumir las consecuencias negativas de que este llegara a materializarse.
+
+* **Eliminar el riesgo:** Son las acciones para hacer que las condiciones o los factores desaparezcan y con ellos el riesgo. Es una opción para aquellos casos de alta probabilidad de ocurrencia, con un muy alto impacto negativo.
+
+* **Transferir el riesgo:** Significa que se le pasa el problema a alguien mas. Es común el contratar una póliza de seguros que indemnice a la organización en caso de que se presente el problema.
+
