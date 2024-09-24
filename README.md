@@ -155,3 +155,22 @@ Una vez analizados, se define la política de tratamiento de los riesgos en func
 
 * **Transferir el riesgo:** Significa que se le pasa el problema a alguien mas. Es común el contratar una póliza de seguros que indemnice a la organización en caso de que se presente el problema.
 
+<!-- seguridad 17/09/23 -->
+# El ROI en la seguridad digital
+***Justificación de presupuesto en ciberseguridad***
+Es uno de los aspectos más importantes pero a su vez mas difícil de asignar.
+
+Razones de importancia de cuantificar la inversión de ciberseguridad:
+- Justificación de inversiones pasadas
+- Demostrar la necesidad de una inversión futura
+- Inversión estratégica en seguridad
+
+## Como se calcula? 
+**ROI** = ***(Beneficios de inversión - Costo de inversión en seguridad) / Costo de inversión en seguridad***
+
+Para calcular los beneficios de inversión se basa en la **Expectativa Anual de Perdidas(ALE)**
+
+> **ALE** = ***ARO(Tasa anual de ocurrencia) * SLE(Expectativa de Perdida Única)***
+
+- **ARO:**  Cada cuanto ocurre anualmente el ataque, normalmente en %
+- **SLE:** Los costos totales de una solo instancia de la amenaza, o sea lo que pierde la empresa por un ataque(costos de remediación, perdida de productividad, perdida de ventas, etc)
