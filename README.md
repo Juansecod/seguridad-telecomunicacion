@@ -177,7 +177,7 @@ Para calcular los beneficios de inversión se basa en la **Expectativa Anual de 
 
 >**ROSI** = ***((ALE sin inversion - ALE con la inversión) - Costo de la inversión) / Costo de la inversión***
 
-> [!NOTE]
+> [!WARNING]
 > **Workhome:** Una empresa tecnológica ha enrentado repetidos intentos de phishing que han comprometido cuentas de empleados. La probabilidad anual de que ocurra un ataque exitoso es del 25%(ARO=0.25). Cada incidente le cuesta a la empresa $50.000 en tiempo de recuperación y daño de reputación(SLE=50000). La empresa está considerando invertir $15.000 en un programa de capacitación y mejoras de seguridad que reduciría la probabilidad de éxito de estos ataques en un 70%.
 >
 > Calcule el ROSI de esta inversión y evalúe si es financieramente ventajosa.
@@ -192,10 +192,10 @@ Para calcular los beneficios de inversión se basa en la **Expectativa Anual de 
 
 > **ROSI** = ***|(|(3750-12500)|-15000)/15000| = 0,42(42%)***
 
-> ![IMPORTANT]
+> [!IMPORTANT]
 > Por cada dolar invertido en la seguridad, la organización obtendra $1.42 de beneficio.
 
-> [!NOTE]
+> [!WARNING]
 > **Workhome:** Una empresa de manufactur experimenta frecuentes infecciones de malware que ralentizan su red y afectan la productividad. La probabilidad de que ocurra unincidente de malware es del 30% anual(ARO=0.3). Cada incidente le cuesta a la empresa $80.000 en pérdida de datos y productividad (SLE = $80.000). La empresa planea gastar $25.000 en un nuevo software de seguridad que reduce el riesgo en un 60%
 >
 > Calcule el ROSI de esta inversión y evalúe si es financieramente ventajosa.
@@ -208,12 +208,12 @@ Para calcular los beneficios de inversión se basa en la **Expectativa Anual de 
 **ALE sin inversion:** 24.000
 **ALE con inversion:** 9.600
 
-> **ROSI** = ***|(|(9600-24000)|-25000)/25000| = 0.424(42%) ***
+> **ROSI** = ***|(|(9600-24000)|-25000)/25000| = 0.424(42%)***
 
-> ![IMPORTANT]
+> [!IMPORTANT]
 > Por cada dolar invertido en la seguridad, la organización obtendra $1.42 de beneficio.
 
-> [!NOTE]
+> [!WARNING]
 > **Workhome:** Una empresa de retail tiene alta exposicón a violaciones de datos que involucran información de clientes. La probabilidad de que ocurra una violación de datos es del 10% anual. Cada incidente le cuesta $1'000.000 debido a multas regulatorias, pérdida de confianza y recuperación de sistemas. La empresa planea invertir $150.000 en una solución de encriptación avanzada que reduciría la probabilidad de este tipo de ataques en un 85%
 >
 > Calcule el ROSI de esta inversión y evalúe si es financieramente ventajosa.
@@ -226,7 +226,7 @@ Para calcular los beneficios de inversión se basa en la **Expectativa Anual de 
 **ALE sin inversion:** 100.000
 **ALE con inversion:** 15.000
 
-> **ROSI** = ***|(|(15000-100000)|-150000)/150000| = 0.43(43%) ***
+> **ROSI** = ***|(|(15000-100000)|-150000)/150000| = 0.43(43%)***
 
-> ![IMPORTANT]
+> [!IMPORTANT]
 > Por cada dolar invertido en la seguridad, la organización obtendra $1.43 de beneficio.
